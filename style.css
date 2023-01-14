@@ -1,0 +1,16 @@
+/* 
+    Syntax for CSS
+    selector {
+        property: value;
+    }
+
+    * == the universal selector
+        selects all the html elements 
+    in our case, the property is the font, value is the the assigned.
+
+    */
+
+* {
+    font-family: "Roboto", monospace;
+    
+}
